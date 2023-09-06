@@ -210,56 +210,56 @@ right: 0px;
     
 }
 .img1{
-    background-image: url(cat-01.jpg);
+    background-image: url(lawla.jpg);
 background-size: cover;
     background-repeat: no-repeat;
     width: 100%;
     height: 45%;
 }
 .img2{
-    background-image: url(cat-02.jpg);
+    background-image: url(zawja.jpg);
 background-size: cover;
     background-repeat: no-repeat;
     width: 100%;
     height: 45%;
 }
 .img3{
-    background-image: url(cat-03.jpg);
+    background-image: url(talta.jpg);
 background-size: cover;
     background-repeat: no-repeat;
     width: 100%;
     height: 45%;
 }
 .img4{
-    background-image: url(cat-04.jpg);
+    background-image: url(rab3a.jpg);
 background-size: cover;
     background-repeat: no-repeat;
     width: 100%;
     height: 45%;
 }
 .img5{
-    background-image: url(cat-05.jpg);
+    background-image: url(khamsa.jpg);
 background-size: cover;
     background-repeat: no-repeat;
     width: 100%;
     height: 45%;
 }
 .img6{
-    background-image: url(cat-06.jpg);
+    background-image: url(sab3a.jpg);
 background-size: cover;
     background-repeat: no-repeat;
     width: 100%;
     height: 45%;
 }
 .img7{
-    background-image: url(cat-07.jpg);
+    background-image: url(lawla.jpg);
 background-size: cover;
     background-repeat: no-repeat;
     width: 100%;
     height: 45%;
 }
 .img8{
-    background-image: url(cat-08.jpg);
+    background-image: url(talta.jpg);
 background-size: cover;
     background-repeat: no-repeat;
     width: 100%;
@@ -342,7 +342,7 @@ background-size: cover;
     height: 100%;
 }
 .img9{
-    background-image: url(gallery-01.png);
+    background-image: url(jcp1.jpg);
 background-size: cover;
     background-repeat: no-repeat;
     background-position: center;
@@ -399,7 +399,7 @@ animation: flash 0.7s;
     transform: rotate(2deg) scale(1.1);
 }
 .img10{
-    background-image: url(gallery-02.png);
+    background-image: url(jcp2.jpg);
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center;
@@ -410,7 +410,7 @@ animation: flash 0.7s;
     overflow: hidden;
 }
 .img11{
-    background-image: url(gallery-03.jpg);
+    background-image: url(jcp7.jpg);
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center;
@@ -421,7 +421,7 @@ animation: flash 0.7s;
     overflow: hidden;
 }
 .img12{
-    background-image: url(gallery-04.png);
+    background-image: url(jcp4.jpg);
     background-size: cover;
     background-repeat: no-repeat;
     transition: 0.3s;
@@ -432,7 +432,7 @@ animation: flash 0.7s;
     overflow: hidden;
 }
 .img13{
-    background-image: url(gallery-05.jpg);
+    background-image: url(jcp5.jpg);
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center;
@@ -443,7 +443,7 @@ animation: flash 0.7s;
     overflow: hidden;
 }
 .img14{
-    background-image: url(gallery-06.png);
+    background-image: url(jcp6.jpg);
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center;
