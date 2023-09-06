@@ -1473,18 +1473,14 @@ border-bottom: 1px solid #666666;
  
 
     .nav{
-        height: 90px;
+        height: 55px;
         display: flex;
         flex-direction: column;
         align-items: center;
         padding: 10px;
     }
     .nav .links a {
-        text-decoration: none;
-        color: black;
-        font-size: 10px;
-        margin: 0;
-        padding: 5px;
+       display: none;
      
     }
     .nav .logo {
